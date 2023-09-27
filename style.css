@@ -1,0 +1,74 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+}
+.intro {
+    height: 700px;
+    background: rgb(12, 12, 12);
+}
+.container-intro {
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.juliahead {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 80px;
+}
+.juliahead2 {
+    font-size: 50px;
+    line-height: 30px;
+}
+.juliasubt {
+    color: rgb(67, 99, 206);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.subtext {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 50px;
+}
+#section3 {
+    color: rgb(12, 12, 12);
+    background-color: white;
+    font-family: 'DM Sans', sans-serif;
+}
+.bold {
+    font-weight: 600;
+}
+.shad {
+    box-shadow: 0px 0px 10px black;
+}
+.headshot {
+    border-radius: 70%;
+}
+
+.accordion-button:not(.collapsed) {
+    color: white;
+    background-color: rgb(34, 35, 79);
+}
+.accordion-button {
+    box-shadow: 0px 0px 10px rgb(17, 56, 133);
+    font-family: 'DM Sans', sans-serif;
+    color: rgb(17, 56, 133);
+    font-weight: 500;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+.st {
+    font-size: 15px;
+    color: rgb(67, 99, 206)
+}
+.under {
+    text-decoration: underline;
+}
+.resumetitle { 
+    margin-bottom: 0%;
+}
+hr {
+    margin-bottom: 15px;
+    margin-top: 2px;
+}
